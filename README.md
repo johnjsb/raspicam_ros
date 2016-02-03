@@ -5,7 +5,7 @@ Raspicam_ros
 
 ###1. Prerequisites (dependencies)
 
-####1.1 ARM side libraries for interfacing to Raspberry Pi GPU
+#####1.1 ARM side libraries for interfacing to Raspberry Pi GPU
 
 	git clone https://github.com/raspberrypi/userland.git /home/pi/userland
 
