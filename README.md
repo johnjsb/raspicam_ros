@@ -12,9 +12,8 @@ Raspicam_ros
 Then use buildme to build. It requires cmake to be installed and an arm cross compiler.
 
 ###1.2 ROS
-If you do not have already installed ROS in your rapsberry pi/pi2, we recommend you to install the ROS Indigo on the Rapsberry which installed Raspbian Jessie or Ubuntu
-
-	http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Indigo%20on%20Raspberry%20Pi
+If you do not have already installed ROS in your rapsberry pi/pi2, we recommend you to install the ROS Indigo on the Rapsberry which installed Raspbian Jessie or Ubuntu 
+http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Indigo%20on%20Raspberry%20Pi
 
 #2. Installation
 
